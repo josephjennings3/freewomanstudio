@@ -1,0 +1,13 @@
+.main-header {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .mainmenu ul {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  ul li {
+    list-style-type: none;
+  }
