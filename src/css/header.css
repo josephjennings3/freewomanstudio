@@ -1,13 +1,23 @@
 .main-header {
-    display: flex;
-    flex-direction: row;
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+a {
+  text-decoration: none;
+  color: rgba(0,0,0,.75);
+}
   
-  .mainmenu ul {
-    display: flex;
-    flex-direction: row;
-  }
+
+
+.mainmenu ul {
+  display: flex;
+  flex-direction: row;
+}
   
-  ul li {
-    list-style-type: none;
-  }
+ul li {
+  list-style-type: none;
+  padding: 0 5% 0 5%;
+  margin: auto;
+}

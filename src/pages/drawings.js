@@ -1,14 +1,14 @@
 import React from 'react';
 import '../css/drawings.css';
 
-function Home() {
+function Drawings() {
   return (
-    <div className="home">
+    <div className="drawings">
       <main>
-        <h1>Home</h1>
+        <h1>Drawings</h1>
       </main>
     </div>
   );
 }
 
-export default Home;
+export default Drawings;
