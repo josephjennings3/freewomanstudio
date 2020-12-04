@@ -1,3 +1,8 @@
+.contact-flex-container {
+    display: flex;
+    flex-direction: column;
+}
+
 .greeting {
     padding-bottom: 55px;
     display: flex;
@@ -12,7 +17,7 @@
 }
 
 .contact-title {
-    font-size: 30px;
+    /* font-size: 30px; */
     padding-bottom: 15px;
 }
 

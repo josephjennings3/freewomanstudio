@@ -1,7 +1,13 @@
 .about {
     padding-top: 100px;
+    padding-bottom: 100px;
 }
 
 .about-text {
     padding: 0px 33%;
+}
+
+img {
+    border-radius: 10%;
+    width: 25%;
 }

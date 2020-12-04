@@ -7,7 +7,7 @@ class Header extends Component {
   render() {
     return (
       <header className="main-header">
-          <NavLink to ='/pages/home' exact>
+          <NavLink to ='/' exact>
             <h1>
               FreeWomanStudio
             </h1>
